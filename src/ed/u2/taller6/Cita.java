@@ -1,3 +1,5 @@
+package ed.u2.taller6;
+
 import java.time.LocalDateTime;
 
 class Cita implements Comparable<Cita> {
