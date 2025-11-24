@@ -1,3 +1,5 @@
+package ed.u2.taller6;
+
 class Paciente implements Comparable<Paciente> {
     String id, apellido;
     int prioridad;

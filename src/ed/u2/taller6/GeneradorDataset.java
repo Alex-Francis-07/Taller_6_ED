@@ -1,3 +1,5 @@
+package ed.u2.taller6;
+
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
