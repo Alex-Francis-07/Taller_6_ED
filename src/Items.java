@@ -1,5 +1,3 @@
-package ed.u2.taller6;
-
 class Items implements Comparable<Items> {
     String id, insumo;
     int stock;
